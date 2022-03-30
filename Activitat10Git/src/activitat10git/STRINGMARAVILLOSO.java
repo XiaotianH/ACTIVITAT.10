@@ -15,6 +15,8 @@ public class STRINGMARAVILLOSO{
         parteInferior(M);
         modificacio(informacio);
         
+        System.out.println("LA versió que tenim a github ha estat actualitzada i és més actual que la que tinc en local");
+        
     }  
     
     
